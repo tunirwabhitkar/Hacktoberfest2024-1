@@ -1,6 +1,6 @@
 import java.util.*;
 
-public class functionforcircumferenceofcircle {
+public class FunctionForCircumferenceOfCircle {
 
     public static void circumferenceOfCircle(double r){
         double circumference;
