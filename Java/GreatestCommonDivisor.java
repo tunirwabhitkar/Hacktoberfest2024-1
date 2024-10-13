@@ -1,6 +1,6 @@
 import java.util.*;
 
-public class greatestcommondivisor {
+public class GreatestCommonDivisor {
     public static int calculateGCD(int a, int b){
         while (b != 0){
             int temp = b;
